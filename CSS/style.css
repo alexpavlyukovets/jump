@@ -1,0 +1,40 @@
+a {
+    
+    /* border-bottom: 5px solid goldenrod; */
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+    cursor: ;
+    text-decoration: underline darksalmon;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+    font-size: 32px;
+}
+
+.text-link {
+    color: tomato;
+    background-color: gray;
+}
+
+.text-link:hover {
+    color: white;
+    background-color: blue;
+}
+
+/* visited link */
+
+a:visited {
+    color: bisque;
+
+}
+
+a:active {
+    background-color: aquamarine;
+}
+
+.the.sentence.i.wrote  {
+    color: red;
+}
